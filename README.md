@@ -1,13 +1,13 @@
-# intelligent_tourist_information_system
+# Tourism Recommendation System
 It is a university project that suggests tourists locations to people on their preferences, also it has map that shows them directions to their desired location in a very interactive manner.
 
-# Tourist Recommendation
+# Tourism Recommendation
 
 An intelligent tourist system designed to give personalized tourist spot recommendations.
 
 This project was undertaken for course Minor Project.
 
-## What is Tourist Recommendation?
+## What is Tourism Recommendation?
 
 Tourly is a website designed to give the user tourist spot recommendations based on their personal interest.
 
